@@ -54,9 +54,9 @@ http://localhost:8000
 
 
 ## 🔧 Конфигурация
-Измените данные участников в script.js:
+Измените данные участников в `script.js` :
 
-javascript
+```javascript
 
 const teamMembers = [
   {
@@ -64,9 +64,9 @@ const teamMembers = [
     role: "Team Lead",
     photo: "assets/images/member1.jpg"
   }
-  // ...
-];
-
+  // ... 
+]; 
+```
 
 ## 🌍 Поддержка браузеров
 | Браузер | Версия |
